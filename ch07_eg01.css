@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{color:#000;
+background-color:#FFF;
+font-family:arial,verdana,sans-serif;
+}
+h1{font-size:18pt;}
+p{font-size:12pt;}
+table{
+	border:1px solid #000;
+	background-color:#CCC;
+}
+th{background-color:#F00;
+padding:5px;
+font-weight:bold;}
+td.code{font-weight:bold;
+padding:5px;
+font-family:Verdana, Geneva, sans-serif;}
